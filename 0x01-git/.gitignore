@@ -1,5 +1,6 @@
 # -*- mode: gitignore; -*-
 
+<<<<<<< HEAD
 
 
 *~
@@ -30,4 +31,20 @@ tramp
 
 
 
+=======
+*~
+
+\#*\#
+
+/.emacs.desktop
+
+/.emacs.desktop.lock
+
+*.elc
+
+auto-save-list
+
+tramp
+
+>>>>>>> 4ce3ea625cf80f60dccf084224705355b2df5f81
 .\#*
